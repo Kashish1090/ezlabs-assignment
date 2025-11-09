@@ -1,16 +1,83 @@
-# React + Vite
+# 🌐 EZ Labs – Frontend Intern Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my **Frontend Intern Assignment** built using **React + Vite**.  
+The project replicates a modern and creative homepage design (based on the Figma provided) with responsive UI and smooth animations using **Framer Motion**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 [Click here to view deployed site](https://your-vercel-link.vercel.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 Features
 
-## Expanding the ESLint configuration
+✅ Responsive homepage layout  
+✅ Interactive Hero section with image animation  
+✅ Header navigation bar  
+✅ Contact form with input validation  
+✅ Smooth animations using Framer Motion  
+✅ Deployed using Vercel  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React.js** (via Vite)
+- 🎨 **CSS3** (custom responsive styling)
+- 💫 **Framer Motion** (for animations)
+- ☁️ **Vercel** (for deployment)
+- 🧰 **Git + GitHub** (for version control)
+
+---
+
+## 📂 Folder Structure
+ezlabs/
+├── index.html
+├── package.json
+├── vite.config.js
+└── src/
+├── assets/
+│ └── hero-image.jpg
+├── components/
+│ ├── Header.jsx
+│ ├── Hero.jsx
+│ └── ContactForm.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+
+## ⚙️ Installation & Setup
+
+To run this project locally:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/Kashish1090/ezlabs-assignment.git
+
+# 2️⃣ Navigate into the project folder
+cd ezlabs-assignment
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
+npm run dev
+
+Then open http://localhost:5173
+ to view the app in your browser.
+
+✨ Screenshots
+<img width="1884" height="896" alt="image" src="https://github.com/user-attachments/assets/728fd42c-8c51-455d-b94a-74d8268f6064" />
+<img width="1839" height="751" alt="image" src="https://github.com/user-attachments/assets/62dec1a0-9808-4a72-9166-515ce4c02c34" />
+
+👩‍💻 Author
+
+Kashish Kharb
+🎓 MCA Student | Aspiring Frontend & Software Developer
+🔗 https://www.linkedin.com/in/kashishkharb2308
+📧 kashishkharb1090@gmail.com
+
+📝 License
+This project was created for EZ Labs Frontend Intern Test 2.
+All rights reserved © 2025.

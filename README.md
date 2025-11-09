@@ -6,7 +6,7 @@ The project replicates a modern and creative homepage design (based on the Figma
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to view deployed site](https://your-vercel-link.vercel.app/)
+👉 [Click here to view deployed site](https://ezlabs-frontend-zeta.vercel.app/)
 
 ---
 
